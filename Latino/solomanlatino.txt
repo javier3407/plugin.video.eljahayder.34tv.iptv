@@ -347,75 +347,61 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/474.m3u8
 #EXTINF:-1,TLC 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/290.m3u8
 
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-#EXTINF:-1,Caracol Colombia
-http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#megaIPTVArgentina
-#EXTINF:-1,Mediterraneo TV España
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,TVC LATINO
-rtmp://76.79.146.124/live/TVCSB
-#EXTINF:-1,Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar Argentina
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1,TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 ?
-#EXTINF:-1,Kiss TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live ?
-#EXTINF:-1,TV Mas
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1,TVX Canal 23 El Salvador
-http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
-#EXTINF:-1,Canal 14 Mexico
-rtmp://159.16.243.10/live/canal4/canal4
-#EXTINF:-1,Extremadura Televisión
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8 ?
-#EXTINF:-1,ESNE Argentina
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,XPERTV Canal 33
-http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:-1,Capital 21
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8 ?
-#EXTINF:-1,SMO TV
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1,TiVa Puerto Rico
-http://live-h1.frontlayer.net/fl729845/live/live.m3u8
-#EXTINF:-1,CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,Canal 7 Ecuador
-http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/master.m3u8#alxvill
-#EXTINF:-1,Canal 6 Costa Rica
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1,Canal 9 Costa Rica
-http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
-#EXTINF:-1,Venezolana TV
-http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
-#EXTINF:-1,TVO Canal 23
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal UNO Colombia
-http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#megaIPTVArgentina
-#EXTINF:-1,Canal Tr3ce
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
-#EXTINF:-1,Canal U
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1,Canal 12 Valledupar
-http://panelhdstream.com:1935/8022/8022/playlist.m3u8
-#EXTINF:-1,Canal 4 Arequipa
-http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1,QuintaVision Viña del Mar
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Canal 5 Linares
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-#EXTINF:-1,Arica TV
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1,Canal Once Punta del Este
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1,CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,C5N Argentina
-http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
-#EXTINF:-1,TN Argentina
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,HCH Honduras
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/lb.png",*javier**99382312
+http://backup.oneplay.tv/hash/404/10/asd/147.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/ja.png",AL JADEED
+http://livestreaming.itworkscdn.net:1935/aljadeedlive/aljadeed_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_al_lubnaniya.png",MTV LIBANO HD
+http://livestreaming1.itworkscdn.net:1935/mtvlive/murrtelevision_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.png" ,OTV HD
+http://livestreaming.itworkscdn.net:1935/otvmobile/otvlive_1/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.png",FUTURE 1HD
+http://livestreaming.itworkscdn.net/ftvlive/ftvlive/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/lbc_europe.png",LBC HD
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/lbc
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.png",LDC HD 
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/ldc
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/Woui9dubaidrama.png",DRAMA 
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/bonradio.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nbn_lb.png",NBN LIBANO HD
+http://livei.nbn.com.lb:1935/nbn/mpegts.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.png",ALMAYADEN HD
+http://livestreaming3.itworkscdn.net:1935/mayadeenlive/mayadsat/playlist.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/ipad/images/90.png",SYRIA 
+http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/ipad/images/91.png",SYRIA SAMA 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/c54d.png",SYRIA DRAMA
+http://82.137.248.16:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.png" tvg-name=",ALMANAR 
+http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.png" tvg-name=",ALMANAR HD
+http://38.96.148.199:1935/liveedge1/livestream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/kwtr.png",AL KAUTAR
+http://live.pgmedia.ir:1935/live-35895787/alkosar-512.sdp/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rt_arabic.png",RUSIA ARABIC
+http://rt.ashttp6.visionip.tv/live/Rusiya_Al_Yaum-SDh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nanocdn.net/uploads/lives/channel_509604c68684b.png",ALFORAT
+http://alforatmob.nanocdn.com:1935/live/alforat256/playlist.m3u8
